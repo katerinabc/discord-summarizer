@@ -26,6 +26,7 @@ A powerful Python script that analyzes Discord chat exports and generates compre
 
 - Python 3.8+
 - [Ollama](https://ollama.ai/) installed and running
+  - https://ollama.com/download
 - Required Python packages:
   ```
   langchain_ollama
@@ -38,18 +39,30 @@ A powerful Python script that analyzes Discord chat exports and generates compre
 
 1. Clone the repository or download the script
 2. Install required packages:
-   ```bash
-   pip install langchain_ollama python-dateutil rich pydantic
-   ```
+
+```bash
+pip install langchain_ollama python-dateutil rich pydantic
+```
 3. Ensure Ollama is installed and running with a compatible model (default: phi3-chat)
 
-phi3:14b-medium-4k-instruct-q5_K_M
+The Modelfile is configured for a Linux system. Edit the Modelfile for your system: https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+
+```bash
+# Pull whatever model you want to use, phi3 worked best in our tests for summarizing
+ollama run phi3:14b-medium-4k-instruct-q5_K_M
+
+# Edit the Modelfile first for your system
+ollama create phi3-chat -f Modelfile 
+```
+
+> Note: For exporting Discord Chats you can look into using the Discord API and make a bot. Code soon.
+> If using [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) a preprocess script is provided to make a more compact version of the JSON file to save on tokens
 
 ## Usage
 
 Basic usage:
 ```bash
-python chat_analyzer8.py -i /path/to/chat_export.json -o /path/to/output.md
+python summarize.py -i samples/chat_export.json -o /path/to/output.md
 ```
 
 Arguments:
