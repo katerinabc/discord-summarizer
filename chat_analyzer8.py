@@ -121,7 +121,7 @@ class DiscordChatAnalyzer:
     def format_structured_prompt(self, transcript: str) -> str:
         return f"""Analyze this Discord chat segment and provide a succinct analysis:
                 
-        1. Summary (max 400 words):
+        1. Summary (max 500 words):
         - Focus ONLY on the most important technical discussions, decisions, and problem-solving
         - Highlight concrete solutions and implementations
         - Be specific and VERY concise
