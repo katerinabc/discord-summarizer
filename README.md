@@ -83,6 +83,8 @@ The script generates a structured markdown report containing:
    - Documentation Needs
    - Feature Requests
 
+> Note: using https://github.com/njvack/markdown-to-json to convert to JSON to make embedding to Eliza knowledge easier
+
 ## Customization
 
 You can modify the script's behavior by adjusting:
