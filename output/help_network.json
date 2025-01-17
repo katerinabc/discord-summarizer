@@ -1,0 +1,3392 @@
+{
+  "edges": [
+    [
+      "Ophiuchus",
+      "General Discord chat members facing this problem.",
+      {
+        "help_type": "Resolving eliza package file deletion and re-downloading issues"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "ModelProvider in character.json and typos causing fallback to default",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "jin",
+      {
+        "help_type": "Discussing potential features for AI16Z's website."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "Tenji",
+      {
+        "help_type": "Swap functionality on the twitter client"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "All members",
+      {
+        "help_type": "Finding resources on different models"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "LevelsDennis](14:38)",
+      {
+        "help_type": "Setting up Colab Environment"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "standard",
+      {
+        "help_type": "Database setup and documentation writing."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "Eliza",
+      {
+        "help_type": "Provide information on accessing documents & codebase"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "yikesawjeez",
+      {
+        "help_type": "Fixing onnxruntime-node issue in Discord chat."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "yikesawjeez](15:20-15:23)",
+      {
+        "help_type": "Model Compatibility & Local Execution"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "Faith",
+      {
+        "help_type": "Finetuning with GPT for generating new tweets"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "ICJR",
+      {
+        "help_type": "Error investigation"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "copycat",
+      {
+        "help_type": "Resolving Module not found errors"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "massivefermion",
+      {
+        "help_type": "Installation of specific package versions"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "Ophiuchus] (00:40)",
+      {
+        "help_type": "Explaining finetuning process and server setup"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "SotoAlt",
+      {
+        "help_type": "3D Avatar Creation"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "WAWE (00:42)",
+      {
+        "help_type": "Understanding the finetune workflow for an LLM"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "ferric",
+      {
+        "help_type": "Troubleshooting and decision-making for project deployment platform."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "SMA",
+      {
+        "help_type": "Configuring agent settings and secrets for Twitter & Discord clients"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "#general_chat",
+      {
+        "help_type": "Improved pump functionality"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "Zo & Spooky",
+      {
+        "help_type": "Understanding and implementing a token inspired by Eliza."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "ashxn",
+      {
+        "help_type": "Implementing phase-based twitter post/interaction system and setting conservative repo defaults to avoid spammy behavior. This was suggested by @ashxn as a solution for the Twitter agent's interaction frequency."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "stakeware.xyz",
+      {
+        "help_type": "Troubleshooting and decision-making for project deployment platform."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "WAWE",
+      {
+        "help_type": "3D Avatar Creation"
+      }
+    ],
+    [
+      "Ophiuchus",
+      "everyone",
+      {
+        "help_type": "Improving Eliza's custom actions."
+      }
+    ],
+    [
+      "Ophiuchus",
+      "yung_algorithm, Tenji (10:37)",
+      {
+        "help_type": "Feature Requests"
+      }
+    ],
+    [
+      "big dookie, Binye",
+      "Node version 23.1.0 issue and .env file location",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "Gozde (06:41)",
+      "Patabrava.eth",
+      {
+        "help_type": "Troubleshooting File Paths"
+      }
+    ],
+    [
+      "jin",
+      "ATH\ud83e\udd6dHivo,coinwitch",
+      {
+        "help_type": "Merging Feature"
+      }
+    ],
+    [
+      "jin",
+      "shrigma male",
+      {
+        "help_type": "Adding Context"
+      }
+    ],
+    [
+      "jin",
+      "Need help",
+      {
+        "help_type": "making a dashboard uv map. Slim provided guidance on potential loading or network issues. with Troubleshooting Dashboard UV Map Creation"
+      }
+    ],
+    [
+      "jin",
+      "AzFlin;standard",
+      {
+        "help_type": "Documentation sharing"
+      }
+    ],
+    [
+      "hiroP",
+      "shaw",
+      {
+        "help_type": "Understanding permission issues in a deleted channel."
+      }
+    ],
+    [
+      "hiroP",
+      "ferric",
+      {
+        "help_type": "Troubleshooting Discord Bot Issue"
+      }
+    ],
+    [
+      "hiroP",
+      "bot tweeting issue, suggested checking interactions every 15-20 minutes and limiting to two tweets per day.",
+      {
+        "help_type": "Provided advice on managing Twitter bot's interaction frequency"
+      }
+    ],
+    [
+      "hiroP",
+      "SotoAlt",
+      {
+        "help_type": "Setting up a server for independent agent"
+      }
+    ],
+    [
+      "hiroP",
+      "WAWE",
+      {
+        "help_type": "Setting up a server for independent agent"
+      }
+    ],
+    [
+      "hiroP",
+      "Rick (shared)",
+      {
+        "help_type": "Reinforcing the recommendation for using Mullvad"
+      }
+    ],
+    [
+      "hiroP",
+      "drake granger",
+      {
+        "help_type": "Finding a solution for quota limits"
+      }
+    ],
+    [
+      "hiroP",
+      "j2k",
+      {
+        "help_type": "Eliza project development"
+      }
+    ],
+    [
+      "hiroP",
+      "bundo",
+      {
+        "help_type": "Setting up a server environment (01:56)"
+      }
+    ],
+    [
+      "hiroP",
+      "patabrava.eth",
+      {
+        "help_type": "Creating an agent with correct pose"
+      }
+    ],
+    [
+      "hiroP",
+      "",
+      {
+        "help_type": "Agent setup guidance"
+      }
+    ],
+    [
+      "hiroP",
+      "lucyfer",
+      {
+        "help_type": "Suggested starting point for AI agent development"
+      }
+    ],
+    [
+      "hiroP",
+      "only1",
+      {
+        "help_type": "Clarification on original messages handling in Twitter interactions."
+      }
+    ],
+    [
+      "shaw",
+      "Hiro",
+      {
+        "help_type": "UE collaboration"
+      }
+    ],
+    [
+      "shaw",
+      "futjrnaut",
+      {
+        "help_type": "Membership request"
+      }
+    ],
+    [
+      "shaw",
+      "SMA",
+      {
+        "help_type": "Codebase improvement"
+      }
+    ],
+    [
+      "shaw",
+      "DorianD, Aeon Animus, SotoAlt",
+      {
+        "help_type": "Improving Twitter Bot Behavior"
+      }
+    ],
+    [
+      "shaw",
+      "WAWE",
+      {
+        "help_type": "API Call Error Resolution"
+      }
+    ],
+    [
+      "shaw",
+      "DorianD",
+      {
+        "help_type": "Image Generation Implementation"
+      }
+    ],
+    [
+      "shaw",
+      "SotoAlt",
+      {
+        "help_type": "API Call Error Resolution"
+      }
+    ],
+    [
+      "shaw",
+      "0xfabs",
+      {
+        "help_type": "Discuss potential contribution arrangements"
+      }
+    ],
+    [
+      "shaw",
+      "Honey B.",
+      {
+        "help_type": "Investigating npm build error and potential issues with json fioe"
+      }
+    ],
+    [
+      "Dango\ud83c\udf61",
+      "eliza setup issue",
+      {
+        "help_type": "Setting up Ollama for eliza's model usage."
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "",
+      {
+        "help_type": "Supabase local server confusion"
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "N00t",
+      {
+        "help_type": "Image generation using the free heurist.ai api."
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "SotoAlt",
+      {
+        "help_type": "Troubleshooting Eliza Agent"
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "WAWE",
+      {
+        "help_type": "Troubleshooting Eliza Agent"
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "kiziamizia",
+      {
+        "help_type": "Integration with x platform"
+      }
+    ],
+    [
+      "coinwitch (ai16z intern)",
+      "Cookie3",
+      {
+        "help_type": "Integration with x platform"
+      }
+    ],
+    [
+      "",
+      "slim (05:21)",
+      {
+        "help_type": "Setting Up Environment"
+      }
+    ],
+    [
+      "",
+      "hiroP] (03:57)",
+      {
+        "help_type": "Discussing the possibility of running Discord/Twitter agents asynchronously to handle missed messages when not active"
+      }
+    ],
+    [
+      "",
+      "sirkitree",
+      {
+        "help_type": "Issue management"
+      }
+    ],
+    [
+      "",
+      "LiveTheLifeTV (00:45)",
+      {
+        "help_type": "Troubleshooting docker issues for a X account."
+      }
+    ],
+    [
+      "",
+      "SotoAlt",
+      {
+        "help_type": "OpenAPI Issue Resolution"
+      }
+    ],
+    [
+      "",
+      "WAWE(02:33)",
+      {
+        "help_type": "OpenAPI Issue Resolution"
+      }
+    ],
+    [
+      "",
+      "flockaflame",
+      {
+        "help_type": "by providing 'LLM runs locally' clarification by @hiroP"
+      }
+    ],
+    [
+      "",
+      "Odilitime",
+      {
+        "help_type": "Inquiry on AI16's capabilities for continuous space decision-making in games."
+      }
+    ],
+    [
+      "ferric",
+      "Dorian, SotoAlt",
+      {
+        "help_type": "SQLite issue related to OpenAI embeddings."
+      }
+    ],
+    [
+      "ferric",
+      "WAWE",
+      {
+        "help_type": "SQLite issue related to OpenAI embeddings."
+      }
+    ],
+    [
+      "ferric",
+      "bot",
+      {
+        "help_type": "voice message issue, suggested '/leavechannel' command to leave the problematic channel. with Provided solution for bot overwhelmed by Discord voice messages"
+      }
+    ],
+    [
+      "ferric",
+      "0x\ud835\udcb2\ud835\udcb6\ud835\udcc1\ud835\udcb8\ud835\udcbd] (6:15-7)",
+      {
+        "help_type": "Debugging and fixing TypeError in Twitter client code"
+      }
+    ],
+    [
+      "ferric",
+      "Dorian D",
+      {
+        "help_type": "Resolving TypeScript error TS2322 when assigning 'direct' to the correct type in defaultCharacter.ts file."
+      }
+    ],
+    [
+      "ferric",
+      "wondering what you guys recommend for this",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "ferric",
+      "collect](01:01)",
+      {
+        "help_type": "Troubleshooting Twitter integration issue"
+      }
+    ],
+    [
+      "ferric",
+      "SMA](01:36)",
+      {
+        "help_type": "Improve character bio and lore generation"
+      }
+    ],
+    [
+      "ferric",
+      "Community members struggling",
+      {
+        "help_type": "ignored users in recentMessages. with Technical Tasks"
+      }
+    ],
+    [
+      "ferric",
+      "radagast",
+      {
+        "help_type": "Resolving Twitter bot generation issue"
+      }
+    ],
+    [
+      "ferric",
+      "collect",
+      {
+        "help_type": "Understanding potential causes of an 'Authentication error' in Twitter API"
+      }
+    ],
+    [
+      "ferric",
+      "Honey B.(02:12)",
+      {
+        "help_type": "'Troubleshooting error in code execution'"
+      }
+    ],
+    [
+      "ferric",
+      "shaw (02:16)",
+      {
+        "help_type": "Troubleshooting main standby issue"
+      }
+    ],
+    [
+      "ferric",
+      "Discussing the feasibility of running a local LLM and potential hardware requirements",
+      {
+        "help_type": "Providing perspective on resource consumption by local LLMs, suggesting that it may not be practical for all users."
+      }
+    ],
+    [
+      "ferric",
+      "DegenSpartan",
+      {
+        "help_type": "Hardware upgrade discussion"
+      }
+    ],
+    [
+      "ferric",
+      "Doraind",
+      {
+        "help_type": "Finding and using an appropriate Twitter data scraping tool"
+      }
+    ],
+    [
+      "ferric",
+      "DorianD",
+      {
+        "help_type": "Resolved"
+      }
+    ],
+    [
+      "ferric",
+      "Lazarou provided support for terminal communication issues via Eliza.",
+      {
+        "help_type": "SQL database deletion"
+      }
+    ],
+    [
+      "ferric",
+      "Dorian",
+      {
+        "help_type": "Looking at another version of code to solve rate limit issues"
+      }
+    ],
+    [
+      "hiroP(00:03)",
+      "All members of the chat discussing embeddings issue.",
+      {
+        "help_type": "Debugging and fixing an error related to undefined 'embeddingModel' in main codebase"
+      }
+    ],
+    [
+      "Ophiuchus, Eliza",
+      "SotoAlt",
+      {
+        "help_type": "Setting correct environment variables and characterfile settings to resolve embeddings issues."
+      }
+    ],
+    [
+      "Ophiuchus, Eliza",
+      "WAWE",
+      {
+        "help_type": "Setting correct environment variables and characterfile settings to resolve embeddings issues."
+      }
+    ],
+    [
+      "SotoAlt",
+      "Tharakesh",
+      {
+        "help_type": "Debugging"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Jb (04:57)",
+      {
+        "help_type": "Successful"
+      }
+    ],
+    [
+      "SotoAlt",
+      "istyping](01:54)",
+      {
+        "help_type": "Resolving OpenAI API Error"
+      }
+    ],
+    [
+      "SotoAlt",
+      "istyping (06:54)",
+      {
+        "help_type": "Resolve Twitter account login"
+      }
+    ],
+    [
+      "SotoAlt",
+      "patabrava.eth](07:15)",
+      {
+        "help_type": "Test agent controlling wallet functionality"
+      }
+    ],
+    [
+      "SotoAlt",
+      "big dookie](05:31)",
+      {
+        "help_type": "Fixing agent crashes when processing GIFs"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Bunchu (06:59)",
+      {
+        "help_type": "Character sheet improvement."
+      }
+    ],
+    [
+      "SotoAlt",
+      "Bunchu",
+      {
+        "help_type": "Assisting with technical issue"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Mr. frogwifcat, collect](03:34)",
+      {
+        "help_type": "Provide work samples for project collaboration or review."
+      }
+    ],
+    [
+      "SotoAlt",
+      "Oguz Serdar](03:28)",
+      {
+        "help_type": "Assist in creating character file and defining model provider."
+      }
+    ],
+    [
+      "SotoAlt",
+      "LiveTheLifeTV",
+      {
+        "help_type": "Comparing AI models for better performance."
+      }
+    ],
+    [
+      "SotoAlt",
+      "walee",
+      {
+        "help_type": "Troubleshooting and resolving issues with OpenAI."
+      }
+    ],
+    [
+      "SotoAlt",
+      "RL",
+      {
+        "help_type": "Debugging & Troubleshooting"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Kanye](01:30)",
+      {
+        "help_type": "Node version update and rebuild"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Kanye",
+      {
+        "help_type": "Troubleshooting setup issues with the project"
+      }
+    ],
+    [
+      "SotoAlt",
+      "sma (00:14)",
+      {
+        "help_type": "Implement custom fine-tuned LLM for Twitter in Eliza"
+      }
+    ],
+    [
+      "SotoAlt",
+      "parsedContent is null, retrying",
+      {
+        "help_type": "Investigate and resolve issues related to fine-tuning Spartan model's character profile."
+      }
+    ],
+    [
+      "SotoAlt",
+      "Tenji",
+      {
+        "help_type": "Fixing repetitive response issue"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Deniz",
+      {
+        "help_type": "Deploy and configure ollama model serving in AWS."
+      }
+    ],
+    [
+      "SotoAlt",
+      "All members",
+      {
+        "help_type": "Provided insights on running Langchain locally and in production environments."
+      }
+    ],
+    [
+      "SotoAlt",
+      "Kevin",
+      {
+        "help_type": "Fixing 'Too Many Requests' error with OpenAI API."
+      }
+    ],
+    [
+      "SotoAlt",
+      "ktr",
+      {
+        "help_type": "Bot response fix"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Msurfx, DataRelic",
+      {
+        "help_type": "Resolve SqliteError issue"
+      }
+    ],
+    [
+      "SotoAlt",
+      "pastd_",
+      {
+        "help_type": "AI Clone Development"
+      }
+    ],
+    [
+      "SotoAlt",
+      "big dookie",
+      {
+        "help_type": "Improving API integration for finding responses"
+      }
+    ],
+    [
+      "SotoAlt",
+      "nftranch",
+      {
+        "help_type": "Finding a solution for the error after editing env"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Slim](06:35)",
+      {
+        "help_type": "Telegram Bot Setup"
+      }
+    ],
+    [
+      "SotoAlt",
+      "Kanye (00:34)",
+      {
+        "help_type": "Troubleshooting Twitter API issues"
+      }
+    ],
+    [
+      "WAWE",
+      "stakeware.xyz](01:47)",
+      {
+        "help_type": "SQLite issue related to OpenAI embeddings."
+      }
+    ],
+    [
+      "WAWE",
+      "Tharakesh",
+      {
+        "help_type": "Clearing memory for a game's characters using pnpm commands"
+      }
+    ],
+    [
+      "WAWE",
+      "Jb (04:57)",
+      {
+        "help_type": "Successful"
+      }
+    ],
+    [
+      "WAWE",
+      "istyping (06:54)",
+      {
+        "help_type": "Resolve Twitter account login"
+      }
+    ],
+    [
+      "WAWE",
+      "Bunchu (06:59)",
+      {
+        "help_type": "Character sheet improvement."
+      }
+    ],
+    [
+      "WAWE",
+      "LiveTheLifeTV",
+      {
+        "help_type": "Comparing AI models for better performance."
+      }
+    ],
+    [
+      "WAWE",
+      "RL",
+      {
+        "help_type": "Debugging & Troubleshooting"
+      }
+    ],
+    [
+      "WAWE",
+      "Kanye",
+      {
+        "help_type": "Troubleshooting setup issues with the project"
+      }
+    ],
+    [
+      "WAWE",
+      "parsedContent is null, retrying",
+      {
+        "help_type": "Investigate and resolve issues related to fine-tuning Spartan model's character profile."
+      }
+    ],
+    [
+      "WAWE",
+      "Tenji",
+      {
+        "help_type": "Fixing repetitive response issue"
+      }
+    ],
+    [
+      "WAWE",
+      "All members",
+      {
+        "help_type": "Provided insights on running Langchain locally and in production environments."
+      }
+    ],
+    [
+      "WAWE",
+      "Kevin",
+      {
+        "help_type": "Fixing 'Too Many Requests' error with OpenAI API."
+      }
+    ],
+    [
+      "WAWE",
+      "ktr",
+      {
+        "help_type": "Bot response fix"
+      }
+    ],
+    [
+      "WAWE",
+      "big dookie",
+      {
+        "help_type": "Improving API integration for finding responses"
+      }
+    ],
+    [
+      "WAWE",
+      "Slim](06:35)",
+      {
+        "help_type": "Telegram Bot Setup"
+      }
+    ],
+    [
+      "WAWE",
+      "Kanye (00:34)",
+      {
+        "help_type": "Troubleshooting Twitter API issues"
+      }
+    ],
+    [
+      "Dorian",
+      "shaw, ferric",
+      {
+        "help_type": "Configuring model provider name"
+      }
+    ],
+    [
+      "Dorian",
+      "stakeware.xyz",
+      {
+        "help_type": "Configuring model provider name"
+      }
+    ],
+    [
+      "Dorian",
+      "Thebishop",
+      {
+        "help_type": "Suggested using `pnpm run` command or Dockerfile for running the bot without encountering errors."
+      }
+    ],
+    [
+      "Dorian",
+      "General",
+      {
+        "help_type": "by providing @Dorian shared their work on video generation plugin, which could be useful in solving similar issues."
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "bot",
+      {
+        "help_type": "voice message issue, suggested '/leavechannel' command to leave the problematic channel. with Provided solution for bot overwhelmed by Discord voice messages"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "0x\ud835\udcb2\ud835\udcb6\ud835\udcc1\ud835\udcb8\ud835\udcbd] (6:15-7)",
+      {
+        "help_type": "Debugging and fixing TypeError in Twitter client code"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Dorian D",
+      {
+        "help_type": "Resolving TypeScript error TS2322 when assigning 'direct' to the correct type in defaultCharacter.ts file."
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "wondering what you guys recommend for this",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Community members struggling",
+      {
+        "help_type": "ignored users in recentMessages. with Technical Tasks"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "radagast",
+      {
+        "help_type": "Resolving Twitter bot generation issue"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "collect",
+      {
+        "help_type": "Understanding potential causes of an 'Authentication error' in Twitter API"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "shaw (02:16)",
+      {
+        "help_type": "Troubleshooting main standby issue"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Discussing the feasibility of running a local LLM and potential hardware requirements",
+      {
+        "help_type": "Providing perspective on resource consumption by local LLMs, suggesting that it may not be practical for all users."
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Doraind",
+      {
+        "help_type": "Finding and using an appropriate Twitter data scraping tool"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "DorianD",
+      {
+        "help_type": "Resolved"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Lazarou provided support for terminal communication issues via Eliza.",
+      {
+        "help_type": "SQL database deletion"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Tenjis username",
+      {
+        "help_type": "Codebase management"
+      }
+    ],
+    [
+      "stakeware.xyz",
+      "Jb",
+      {
+        "help_type": "Voice prompt setup"
+      }
+    ],
+    [
+      "Ophiuchus](00:41)",
+      "All",
+      {
+        "help_type": "Technical Discussion"
+      }
+    ],
+    [
+      "All",
+      "Shannon Code (emblem vault)](0:51)",
+      {
+        "help_type": "Discussing potential solutions for bots triggering Twitter\u2019s TOS."
+      }
+    ],
+    [
+      "All",
+      "solarnius",
+      {
+        "help_type": "Community support"
+      }
+    ],
+    [
+      "All",
+      "Dorian (12:04)",
+      {
+        "help_type": "Finding efficient ways of publishing long messages"
+      }
+    ],
+    [
+      "All",
+      "CaptainCool",
+      {
+        "help_type": "Resolving Twitter agent client plugin string error in character.json file."
+      }
+    ],
+    [
+      "Dorian, SotoAlt",
+      "stakeware.xyz](01:47)",
+      {
+        "help_type": "SQLite issue related to OpenAI embeddings."
+      }
+    ],
+    [
+      "st4rgard3n",
+      "Tharakesh",
+      {
+        "help_type": "Character File Formatting"
+      }
+    ],
+    [
+      "st4rgard3n",
+      "Lina",
+      {
+        "help_type": "Twitter fix"
+      }
+    ],
+    [
+      "Tharakesh",
+      "POV",
+      {
+        "help_type": "Navigating game"
+      }
+    ],
+    [
+      "Tharakesh",
+      "WAWE](02:29)",
+      {
+        "help_type": "Debugging"
+      }
+    ],
+    [
+      "Tharakesh",
+      "RL",
+      {
+        "help_type": "Troubleshooting startup issues"
+      }
+    ],
+    [
+      "Tharakesh",
+      "izzy3911",
+      {
+        "help_type": "Character Knowledge Processing"
+      }
+    ],
+    [
+      "Tharakesh",
+      "Teo",
+      {
+        "help_type": "Provided steps to clean and reinstall packages."
+      }
+    ],
+    [
+      "Tharakesh",
+      "puremood, Ophiuchus",
+      {
+        "help_type": "Connecting Bot with twitter"
+      }
+    ],
+    [
+      "Tharakesh",
+      "Nona (ag/acc)",
+      {
+        "help_type": "Implementing function calls in AI model"
+      }
+    ],
+    [
+      "Tharakesh",
+      "Alain Schaerer",
+      {
+        "help_type": "Explaining the intent of @dexbruce's PR."
+      }
+    ],
+    [
+      "POV",
+      "Tharakesh](01:05)",
+      {
+        "help_type": "Troubleshooting WSL issues with installing pnpm."
+      }
+    ],
+    [
+      "POV",
+      "Nona](01:16)",
+      {
+        "help_type": "Verifying the installation of pnpm."
+      }
+    ],
+    [
+      "POV",
+      "Isk heheh",
+      {
+        "help_type": "Configuring agent to tweet more often & Image generation in character file"
+      }
+    ],
+    [
+      "discordjs/opus install script issue resolution: pnpm clean, pnpm i, and pnpm rebuild.",
+      "Leonard",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "RL",
+      "Lamb",
+      {
+        "help_type": "Resolving Twitter credentials loading errors"
+      }
+    ],
+    [
+      "RL",
+      "Lawyered, 18 Rabbit",
+      {
+        "help_type": "Fixing bot's Twitter posting issue"
+      }
+    ],
+    [
+      "RL",
+      "Tenji",
+      {
+        "help_type": "Code posting"
+      }
+    ],
+    [
+      "RL",
+      "Nona (ag/acc)",
+      {
+        "help_type": "Understanding scraping limits"
+      }
+    ],
+    [
+      "POV (04:17)",
+      "Provided a solution to delete db sqlite and rebuild for Discord bot communication error.",
+      {
+        "help_type": "Resolving technical issue with Discord connection"
+      }
+    ],
+    [
+      "solswappa(05:51)",
+      "Shared information on setting up a railway for Twitter client.",
+      {
+        "help_type": "Setting up the environment"
+      }
+    ],
+    [
+      "Thomas Huy](07:02)",
+      "Issue",
+      {
+        "help_type": "Ai16z framework not following character configuration with 'Cannot GET /' error when accessing localhost. Is there a specific reference needed at that URL for Eliza to work properly?"
+      }
+    ],
+    [
+      "Leonard (07:10)",
+      "Tharakesh (07:12)], [Citizen1553 (07:09)",
+      {
+        "help_type": "Troubleshooting Dockerfile issues"
+      }
+    ],
+    [
+      "LevelsDennis, big dookie",
+      "infinite \u2014 ai/16z",
+      {
+        "help_type": "Identify examples of deployed bots."
+      }
+    ],
+    [
+      "Provided a link for 'trust score' feature implementation",
+      "Dave",
+      {
+        "help_type": "Understanding the bot trust system."
+      }
+    ],
+    [
+      "Provided a link for 'trust score' feature implementation",
+      "Eco",
+      {
+        "help_type": "Understanding the bot trust system."
+      }
+    ],
+    [
+      "Suggested running yarn commands for character file import",
+      "naturevrm",
+      {
+        "help_type": "Importing a Twitter archive dataset into eliza agents."
+      }
+    ],
+    [
+      "naturevrm",
+      "loaf",
+      {
+        "help_type": "Resolving node error when executing script."
+      }
+    ],
+    [
+      "naturevrm",
+      "N/A",
+      {
+        "help_type": "Providing information on the project"
+      }
+    ],
+    [
+      "naturevrm",
+      "leonprou",
+      {
+        "help_type": "Eliza project"
+      }
+    ],
+    [
+      "naturevrm",
+      "Ensemble",
+      {
+        "help_type": "Eliza project"
+      }
+    ],
+    [
+      "naturevrm",
+      "smokyboo (07:01)",
+      {
+        "help_type": "Investigate and resolve the repeating message problem in Ollama."
+      }
+    ],
+    [
+      "big dookie",
+      "jb",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "big dookie",
+      "maimun",
+      {
+        "help_type": "Launched Twitter Agent"
+      }
+    ],
+    [
+      "big dookie",
+      "claude",
+      {
+        "help_type": "Implement audio-reactivity with moving effects on static image."
+      }
+    ],
+    [
+      "big dookie",
+      "whobody",
+      {
+        "help_type": "Suggested alternative methods for applying glitch effects on static images based on sound."
+      }
+    ],
+    [
+      "big dookie",
+      "Poe",
+      {
+        "help_type": "Improve browser-based video saving functionality"
+      }
+    ],
+    [
+      "big dookie",
+      "futjr",
+      {
+        "help_type": "Learning new vocabulary"
+      }
+    ],
+    [
+      "leonprou",
+      "rhitik",
+      {
+        "help_type": "Setting up Eliza"
+      }
+    ],
+    [
+      "Ensemble",
+      "rhitik",
+      {
+        "help_type": "Setting up Eliza"
+      }
+    ],
+    [
+      "nomansky",
+      "Google Gemini model error issue, suggested trying version alpha.3.",
+      {
+        "help_type": "Resolving dimension mismatch in Google Gemini Model"
+      }
+    ],
+    [
+      "hosermage",
+      "unknown",
+      {
+        "help_type": "Understanding API integration"
+      }
+    ],
+    [
+      "hosermage",
+      "NavarroCol / VickyDev",
+      {
+        "help_type": "Discussed the importance of song quality and catalog diversity, providing feedback on current issues."
+      }
+    ],
+    [
+      "hosermage",
+      "Discord chat members who experienced bot's lack of response.",
+      {
+        "help_type": "Debugging issue causing the bot to not respond"
+      }
+    ],
+    [
+      "puremood",
+      "All members in the chat",
+      {
+        "help_type": "Switching agent's character file"
+      }
+    ],
+    [
+      "puremood",
+      "Konstantine",
+      {
+        "help_type": "Creating new Discord channels"
+      }
+    ],
+    [
+      "puremood",
+      "Yoni",
+      {
+        "help_type": "Understanding model provider flexibility"
+      }
+    ],
+    [
+      "Konstantine",
+      "Reassured that Reddit will be handled before PR.",
+      {
+        "help_type": "Provided reassurance about handling a task."
+      }
+    ],
+    [
+      "Konstantine",
+      "0xdexplorer",
+      {
+        "help_type": "Fetching and updating necessary packages to resolve the problem."
+      }
+    ],
+    [
+      "Konstantine",
+      "solana priorityFee object query",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "Mfairy and AzFlin",
+      "NavarroCol/VickyDev",
+      {
+        "help_type": "Resolving a documentation error"
+      }
+    ],
+    [
+      "Artego",
+      "NavarroCol / VickyDev/nodms (05:34)",
+      {
+        "help_type": "AI agent development"
+      }
+    ],
+    [
+      "Kush",
+      "NavarroCol / VickyDev/nodms (05:42)",
+      {
+        "help_type": "AI agent development"
+      }
+    ],
+    [
+      "NavarroCol / VickyDev/nodms (05:42)",
+      "Cartman",
+      {
+        "help_type": "AI agent development"
+      }
+    ],
+    [
+      "juneaucrypto",
+      "g",
+      {
+        "help_type": "Learning how to code"
+      }
+    ],
+    [
+      "g",
+      "The Interns AI] (07:23)",
+      {
+        "help_type": "Learning how to code"
+      }
+    ],
+    [
+      "EdwardLazz",
+      "bigxiang",
+      {
+        "help_type": "Troubleshooting pnpm startup issue"
+      }
+    ],
+    [
+      "EdwardLazz",
+      "Bel",
+      {
+        "help_type": "Addressing base58 error and tweet content formatting"
+      }
+    ],
+    [
+      "EdwardLazz",
+      "fudme",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "Bel",
+      "CaptainCool",
+      {
+        "help_type": "Correct the '[object Object]' error by replacing it with actual API key."
+      }
+    ],
+    [
+      "Bel",
+      "CaptainCool and RZ",
+      {
+        "help_type": "Add the provided validation logic before creating PublicKey."
+      }
+    ],
+    [
+      "Bel",
+      "dnx",
+      {
+        "help_type": "by providing Recommended using bitquery as a resource, mentioned 'dexscreeners' to Bel by @dnx."
+      }
+    ],
+    [
+      "dnx",
+      "0xM1M3",
+      {
+        "help_type": "Database Configuration"
+      }
+    ],
+    [
+      "dnx",
+      "All members interested in contributing or learning more.",
+      {
+        "help_type": "@futjr suggested the idea of a dapp site with token-gated files, and @djn provided information about GitHub repository star count. This sparked discussions on potential contributions to ai16z organization repositories by various members including Dnx who is experienced in fullstack development."
+      }
+    ],
+    [
+      "dnx",
+      "victorkunai",
+      {
+        "help_type": "Finding necessary assets for demo"
+      }
+    ],
+    [
+      "dnx",
+      "LiamZ",
+      {
+        "help_type": "Creation of a Twitter thotposter using an image model"
+      }
+    ],
+    [
+      "dnx",
+      "Vice man (05:24)",
+      {
+        "help_type": "Providing information on decentralized inference provider"
+      }
+    ],
+    [
+      "0xM1M3",
+      "multiple",
+      {
+        "help_type": "Implementing Twitter client features"
+      }
+    ],
+    [
+      "Tharakesh (00:51)",
+      "(POV)",
+      {
+        "help_type": "Fixing the agent's behavior with tweets and setting up .env file."
+      }
+    ],
+    [
+      "!MakturbLab",
+      "YoungphLo (01:46)",
+      {
+        "help_type": "SQLite database management, randomizing properties for characters"
+      }
+    ],
+    [
+      "cMooreLabs",
+      "Tharakesh (02:53)",
+      {
+        "help_type": "Twitter bot management"
+      }
+    ],
+    [
+      "Isk heheh",
+      "Adjusting character file syntax for image generation model",
+      {
+        "help_type": "Syntax correction"
+      }
+    ],
+    [
+      "Tharakesh and others",
+      "'EADDRINUSE' error explanation.",
+      {
+        "help_type": "Error troubleshooting"
+      }
+    ],
+    [
+      "Lazarou",
+      "istyping",
+      {
+        "help_type": "Resolving 'Error: Used disallowed intents'"
+      }
+    ],
+    [
+      "Lazarou",
+      "ATH\ud83e\udd6dHivo",
+      {
+        "help_type": "Resolved an error in Eliza's setup process."
+      }
+    ],
+    [
+      "Lazarou",
+      "yikesawjeez (18:49)",
+      {
+        "help_type": "Resolving a database error."
+      }
+    ],
+    [
+      "istyping",
+      "Jb (06:21)",
+      {
+        "help_type": "Fix defaultCharacter.ts file"
+      }
+    ],
+    [
+      "big_d ookie",
+      "ofir",
+      {
+        "help_type": "Understanding X account connection issues."
+      }
+    ],
+    [
+      "istyping](01:54)",
+      "WAWE](02:03)",
+      {
+        "help_type": "Resolving OpenAI API Error"
+      }
+    ],
+    [
+      "patabrava.eth](07:15)",
+      "WAWE] (07:19-07:20)",
+      {
+        "help_type": "Test agent controlling wallet functionality"
+      }
+    ],
+    [
+      "big dookie (07:45)",
+      "chat_group",
+      {
+        "help_type": "Enable agents to post on Twitter automatically"
+      }
+    ],
+    [
+      "Tenji",
+      "llama.ts file errors, suggested using llama-cpp in python at 08:24 and fastapi server for integration.",
+      {
+        "help_type": "Error resolution"
+      }
+    ],
+    [
+      "Tenji",
+      "big doooki",
+      {
+        "help_type": "Discussing potential interest in AI models with warper (06:44)"
+      }
+    ],
+    [
+      "Tenji",
+      "big dookie & whobody",
+      {
+        "help_type": "Improving agent responses"
+      }
+    ],
+    [
+      "Tenji",
+      "Twitter + Telegram client interaction problem",
+      {
+        "help_type": "Resolve issue with Twitter and Telegram clients not running together"
+      }
+    ],
+    [
+      "Tenji",
+      "yung_algorithm",
+      {
+        "help_type": "Understanding action hooking"
+      }
+    ],
+    [
+      "Tenji",
+      "lina-bytes",
+      {
+        "help_type": "image gen model selection"
+      }
+    ],
+    [
+      "All members",
+      "Ladi",
+      {
+        "help_type": "Documentation Needs"
+      }
+    ],
+    [
+      "All members",
+      "futjr",
+      {
+        "help_type": "Shared an unrelated but humorous contribution"
+      }
+    ],
+    [
+      "All members",
+      "T",
+      {
+        "help_type": "similar issues. with @LaserRiot explained how their AWS Lambda worker operates in a distributed manner while keeping wallet access air-gapped, providing insight to others facing related challenges. Recipients: All interested parties"
+      }
+    ],
+    [
+      "victorkunai",
+      "_d3f4ult",
+      {
+        "help_type": "Understanding the importance of VRM for avatar interoperability in Three.js based 3D metaverse applications."
+      }
+    ],
+    [
+      "victorkunai",
+      "WAWE (SotoAlt)",
+      {
+        "help_type": "Understanding the importance of VRM for avatar interoperability in Three.js based 3D metaverse applications."
+      }
+    ],
+    [
+      "MurphyDev",
+      "shaw and the community",
+      {
+        "help_type": "Feature Requests"
+      }
+    ],
+    [
+      "MurphyDev",
+      "shaw and futjr",
+      {
+        "help_type": "Understanding existing implementation"
+      }
+    ],
+    [
+      "shaw](https://discordapp.com/users/me?id=129876543)",
+      "SotoAlt](https://discordapp.com/users/me?id=129876543)",
+      {
+        "help_type": "VRM model downloading and game engine development"
+      }
+    ],
+    [
+      "Elijah Madonia",
+      "Community members",
+      {
+        "help_type": "Website improvement suggestions"
+      }
+    ],
+    [
+      "futjr",
+      "Jin or Shaw",
+      {
+        "help_type": "Design work on groundwork"
+      }
+    ],
+    [
+      "arthuryeti",
+      "with Scrape a collection of tweets without hitting rate limits by providing not_in_a_dao_ai provided settings for scraping large collections",
+      {
+        "help_type": "local models in LM Studio."
+      }
+    ],
+    [
+      "arthuryeti",
+      "not_in_a_dao_ai",
+      {
+        "help_type": "Resolving connection issues with NordVPN"
+      }
+    ],
+    [
+      "arthuryeti",
+      "exHuman",
+      {
+        "help_type": "agent environment setup"
+      }
+    ],
+    [
+      "exHuman",
+      "Rick](10:03)",
+      {
+        "help_type": "Provided encouragement and reassurance to continue working on the project."
+      }
+    ],
+    [
+      "standard](7:47)",
+      "whobody",
+      {
+        "help_type": "Guided user to find and use the .env.example file for setting up environment variables."
+      }
+    ],
+    [
+      "whobody",
+      "big dookie (03:11)",
+      {
+        "help_type": "Understanding how to proceed with Twitter handler issue"
+      }
+    ],
+    [
+      "whobody",
+      "big dookie (06:39)",
+      {
+        "help_type": "by providing Big dookie shared a link about Brian Baumgartner for comedic relief."
+      }
+    ],
+    [
+      "whobody",
+      "hiroP (01:49)",
+      {
+        "help_type": "Project configuration"
+      }
+    ],
+    [
+      "standard",
+      "general community",
+      {
+        "help_type": "Understanding how to handle unauthorized errors"
+      }
+    ],
+    [
+      "Eliza",
+      "LevelsDennis",
+      {
+        "help_type": "Resolve node-pre-gyp installation issue"
+      }
+    ],
+    [
+      "Eliza",
+      "LevelsDennis (19:47)",
+      {
+        "help_type": "Resolving technical issue with Twitter post activation."
+      }
+    ],
+    [
+      "ATH\ud83e\udd6dHivo",
+      "BigSky",
+      {
+        "help_type": "Testing for potential issues."
+      }
+    ],
+    [
+      "ATH\ud83e\udd6dHivo",
+      "Does the script require any additional safety checks or modifications before deployment?",
+      {
+        "help_type": "Reviewing and providing feedback on a reply agent setup script."
+      }
+    ],
+    [
+      "ATH\ud83e\udd6dHivo",
+      "Carlos Rene",
+      {
+        "help_type": "Provided initial assistance for onnxruntime-node version conflict."
+      }
+    ],
+    [
+      "ATH\ud83e\udd6dHivo",
+      "DEGA",
+      {
+        "help_type": "Provided initial assistance for onnxruntime-node version conflict."
+      }
+    ],
+    [
+      "AzFlin",
+      "Nivi BIP420\ud83d\udd77",
+      {
+        "help_type": "Resolving compilation issues."
+      }
+    ],
+    [
+      "AzFlin",
+      "Nivi BIP 420\ud83d\udd77",
+      {
+        "help_type": "Resolving node.js errors"
+      }
+    ],
+    [
+      "yikesawjeez",
+      "big dookie (09:15)",
+      {
+        "help_type": "model retraining"
+      }
+    ],
+    [
+      "YikesAwJezzz",
+      "Ophiuchus (15:23)",
+      {
+        "help_type": "Understanding alternative model loading solutions."
+      }
+    ],
+    [
+      "el.gatore",
+      "only1",
+      {
+        "help_type": "Resolving intermittent twitter login issue"
+      }
+    ],
+    [
+      "only1",
+      "walee",
+      {
+        "help_type": "Recommended an API for chatbot integration and provided a code snippet with adjusted tweet frequency settings"
+      }
+    ],
+    [
+      "only1",
+      "0xfabs",
+      {
+        "help_type": "Setting up AI integration in IDE."
+      }
+    ],
+    [
+      "coinwitch",
+      "zing",
+      {
+        "help_type": "Setting up SSH extension on VSCode for Eliza directory."
+      }
+    ],
+    [
+      "coinwitch",
+      "Finding alternatives for fine-tuning GPT4o without owning GPUs and exploring external services like RunPod.",
+      {
+        "help_type": "Providing information on alternative options, suggesting to consider adding context with sample datasets"
+      }
+    ],
+    [
+      "collect",
+      "DorianD",
+      {
+        "help_type": "Fixing Telegram chat issue on Railway"
+      }
+    ],
+    [
+      "collect",
+      "fff",
+      {
+        "help_type": "Learning about cursor"
+      }
+    ],
+    [
+      "collect",
+      "lpdaemon",
+      {
+        "help_type": "Resolved error and runs without errors"
+      }
+    ],
+    [
+      "collect",
+      "jamesID",
+      {
+        "help_type": "Adding Discord Client"
+      }
+    ],
+    [
+      "collect",
+      "Dockerfile setup issues and troubleshooting.",
+      {
+        "help_type": "Technical Support - Docker Configuration Assistance"
+      }
+    ],
+    [
+      "collect",
+      "Shannon Code (emblem vault)",
+      {
+        "help_type": "Resolving Twitter API authentication issues"
+      }
+    ],
+    [
+      "DorianD",
+      "Mili",
+      {
+        "help_type": "Provided information on root access requirements for using Python in Replits."
+      }
+    ],
+    [
+      "DorianD",
+      "Brandon",
+      {
+        "help_type": "Switching versions for better compatibility with Supabase instance"
+      }
+    ],
+    [
+      "DorianD",
+      "Apollo DAO and others interested in exploring new tools.",
+      {
+        "help_type": "Explore AgentK for potential use cases within the community's projects. This could lead to more efficient automation of tasks, reducing manual workload"
+      }
+    ],
+    [
+      "DorianD",
+      "Apollo DAO",
+      {
+        "help_type": "Switching versions for better compatibility with Supabase instance"
+      }
+    ],
+    [
+      "DorianD",
+      "pmairca",
+      {
+        "help_type": "Resolved"
+      }
+    ],
+    [
+      "Havohej, DorianD and RL.",
+      "ai16z/agent",
+      {
+        "help_type": "Twitter scrapper issue with 'missing data' error."
+      }
+    ],
+    [
+      "SlKz\u1d4d\u1d50, coinwitch (ai16z intern)",
+      "kbrownfitness",
+      {
+        "help_type": "Creating a community structure to help newcomers"
+      }
+    ],
+    [
+      "kbrownfitness",
+      "roque",
+      {
+        "help_type": "Integration of AI components"
+      }
+    ],
+    [
+      "kbrownfitness",
+      "AMcKay, Nona (ag/acc)",
+      {
+        "help_type": "Resolving technical issues"
+      }
+    ],
+    [
+      "kbrownfitness",
+      "kungfumode",
+      {
+        "help_type": "Investigate lore/bio section"
+      }
+    ],
+    [
+      "kbrownfitness",
+      "Radagast",
+      {
+        "help_type": "Finding correct AI Model settings."
+      }
+    ],
+    [
+      "SlKz\u1d4d\u1d50",
+      "infi",
+      {
+        "help_type": "Fixing cookie issue in .env file"
+      }
+    ],
+    [
+      "Tchouston (04:59)",
+      "infi(04:51)",
+      {
+        "help_type": "Twitter Login Issue"
+      }
+    ],
+    [
+      "galego",
+      "kbrownfitness (04:53)",
+      {
+        "help_type": "Supabase setup"
+      }
+    ],
+    [
+      "Galego](05:01)",
+      "General Discord community",
+      {
+        "help_type": "Improving Documentation Quality"
+      }
+    ],
+    [
+      "Galego",
+      "bj\u00f6rn",
+      {
+        "help_type": "Documentation Needs"
+      }
+    ],
+    [
+      "Galego",
+      "Teo",
+      {
+        "help_type": "Discord Bot Integration"
+      }
+    ],
+    [
+      "Galego",
+      "with Resolving an issue",
+      {
+        "help_type": "running `eliza`"
+      }
+    ],
+    [
+      "0xFanz",
+      "DAPPCRAFT",
+      {
+        "help_type": "Setting up a local instance like Eliza."
+      }
+    ],
+    [
+      "naturevrm](04:02-04:13)",
+      "Bunchu](04:07)",
+      {
+        "help_type": "Technical assistance on Grok usage and setup."
+      }
+    ],
+    [
+      "Ophiuchus](04:23)",
+      "(General Discord community)",
+      {
+        "help_type": "Technical suggestion on model improvement."
+      }
+    ],
+    [
+      "Ophiuchus (04:25-36)",
+      "Bunchu",
+      {
+        "help_type": "Understanding bot port management"
+      }
+    ],
+    [
+      "Bunchu",
+      "WAWE (06:20)",
+      {
+        "help_type": "Assisting with technical issue"
+      }
+    ],
+    [
+      "Bunchu",
+      "AIFlow.ML",
+      {
+        "help_type": "Troubleshooting API Key Issues"
+      }
+    ],
+    [
+      "Bunchu",
+      "Cleverson1",
+      {
+        "help_type": "Adding web search plugin"
+      }
+    ],
+    [
+      "Bunchu",
+      "Jacob",
+      {
+        "help_type": "API Key Sharing & Resource Recommendation"
+      }
+    ],
+    [
+      "Bunchu",
+      "Confirmed that the agent replies to comments on tweets, but mentioned an issue with testing.",
+      {
+        "help_type": "[yodamaster726]"
+      }
+    ],
+    [
+      "big dookie](05:31)",
+      "WAWE](05:28)",
+      {
+        "help_type": "Fixing agent crashes when processing GIFs"
+      }
+    ],
+    [
+      "discordjs+opus",
+      "pnpm install error, suggested debugging",
+      {
+        "help_type": "cursor at 07:36 and 07:37. with Error resolution"
+      }
+    ],
+    [
+      "matt.lam, chang",
+      "smug",
+      {
+        "help_type": "Database issue resolution."
+      }
+    ],
+    [
+      "griffin was having trouble selecting a specific model in the command line tool.",
+      "Bitang",
+      {
+        "help_type": "Resolving errors after refreshing code and adding build step"
+      }
+    ],
+    [
+      "Oguz Serdar",
+      "Other Bots",
+      {
+        "help_type": "Improving bot interactions and user experience"
+      }
+    ],
+    [
+      "Oguz Serdar",
+      "Lady lotus",
+      {
+        "help_type": "Troubleshooting AI Model Selection"
+      }
+    ],
+    [
+      "Shannon Code (emblem vault)",
+      "gy",
+      {
+        "help_type": "Finding and using ai16z framework docs"
+      }
+    ],
+    [
+      "Shannon Code (emblem vault)",
+      "CLONE",
+      {
+        "help_type": "Finding and using ai16z framework docs"
+      }
+    ],
+    [
+      "loaf(02:39)",
+      "Lady lotus",
+      {
+        "help_type": "Troubleshoot node version and potential fixes for eliza main commit issue."
+      }
+    ],
+    [
+      "SMA",
+      "All members needing assistance",
+      {
+        "help_type": "Node.js issues or other technical queries. with Provide support for node version compatibility and troubleshooting via DMS"
+      }
+    ],
+    [
+      "SMA",
+      "Ophiuchus, whobody",
+      {
+        "help_type": "Documentation"
+      }
+    ],
+    [
+      "SMA",
+      "Spooky",
+      {
+        "help_type": "Troubleshooting Node.js dependencies"
+      }
+    ],
+    [
+      "SMA",
+      "Zo",
+      {
+        "help_type": "Improving bot performance by changing interaction speeds"
+      }
+    ],
+    [
+      "SMA",
+      "Wawe_Alt",
+      {
+        "help_type": "Bug fixing advice"
+      }
+    ],
+    [
+      "SMA",
+      "How do I revert back without messing up my fixes and additions?",
+      {
+        "help_type": "Reverting to a previous version of the project"
+      }
+    ],
+    [
+      "SMA",
+      "Adnan",
+      {
+        "help_type": "Understanding of twitter interactions in codebase."
+      }
+    ],
+    [
+      "SMA",
+      "Stacker\u271d] (DM open)",
+      {
+        "help_type": "AI Agent Deployment"
+      }
+    ],
+    [
+      "Mr. frogwifcat, collect](03:34)",
+      "WAWE](03:31)",
+      {
+        "help_type": "Provide work samples for project collaboration or review."
+      }
+    ],
+    [
+      "Oguz Serdar](03:28)",
+      "WAWE, 0xaryan](03:31)",
+      {
+        "help_type": "Assist in creating character file and defining model provider."
+      }
+    ],
+    [
+      "razzzz",
+      "Eliza development",
+      {
+        "help_type": "Feature Inquiry Assistance"
+      }
+    ],
+    [
+      "Eliza development",
+      "technoir",
+      {
+        "help_type": "Memory Preservation Inquiry Assistance"
+      }
+    ],
+    [
+      "technoir",
+      "LiveTheLifeTV",
+      {
+        "help_type": "Resolving technical issues"
+      }
+    ],
+    [
+      "Robin",
+      "gavinlouuu",
+      {
+        "help_type": "Edit environment variables in project root"
+      }
+    ],
+    [
+      "AIFlow.ML",
+      "maimun",
+      {
+        "help_type": "Successful"
+      }
+    ],
+    [
+      "AIFlow.ML",
+      "Vice man",
+      {
+        "help_type": "Plugin file addition and discord voice chat setup"
+      }
+    ],
+    [
+      "AIFlow.ML",
+      "Kevin Mok",
+      {
+        "help_type": "Stuck querying when @'ing it in Discord"
+      }
+    ],
+    [
+      "AIFlow.ML",
+      "Odilitime",
+      {
+        "help_type": "Add Slack Client File"
+      }
+    ],
+    [
+      "umut",
+      "maimun and Sam",
+      {
+        "help_type": "Improving bot's response mechanism for generating images without user interaction."
+      }
+    ],
+    [
+      "umut",
+      "cleverson1",
+      {
+        "help_type": "Problem Solving"
+      }
+    ],
+    [
+      "N00t",
+      "Sam & Others",
+      {
+        "help_type": "Twitter Login Issue Resolution"
+      }
+    ],
+    [
+      "N00t",
+      "Havohej",
+      {
+        "help_type": "Syntax Error Check & Character Sheet Adjustment"
+      }
+    ],
+    [
+      "N00t",
+      "Odilitime",
+      {
+        "help_type": "Understanding new twitter client functionality"
+      }
+    ],
+    [
+      "bufan",
+      "Harvzs",
+      {
+        "help_type": "Resolve database issues on latest release"
+      }
+    ],
+    [
+      "bufan",
+      "Plugins Developers",
+      {
+        "help_type": "Plugin development"
+      }
+    ],
+    [
+      "VI",
+      "Ayvaras",
+      {
+        "help_type": "Fixing runtime error for search functionality."
+      }
+    ],
+    [
+      "Ayvaras",
+      "lambert, Tharakesh",
+      {
+        "help_type": "Troubleshooting cookie usage in the application"
+      }
+    ],
+    [
+      "VKu",
+      "N00t (02:01)",
+      {
+        "help_type": "Improving session management"
+      }
+    ],
+    [
+      "Big Dookie",
+      "Sam",
+      {
+        "help_type": "Improving the bot's understanding and response to tweets"
+      }
+    ],
+    [
+      "cleverson1",
+      "DL",
+      {
+        "help_type": "Resolving Twitter integration issue with @ai16z/plugin-image-generation."
+      }
+    ],
+    [
+      "thebasement",
+      "bunchu",
+      {
+        "help_type": "Consistent style implementation in agent's behavior."
+      }
+    ],
+    [
+      "LiveTheLifeTV",
+      "gm",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "walee",
+      "WAWE (04:25-04:31)",
+      {
+        "help_type": "Troubleshooting and resolving issues with OpenAI."
+      }
+    ],
+    [
+      "7OROY (05:21)",
+      "Roque",
+      {
+        "help_type": "Providing guidance on using Eliza's framework in conjunction with a Discord server."
+      }
+    ],
+    [
+      "Roque",
+      "Noah",
+      {
+        "help_type": "Connecting AI Model with Discord Bot"
+      }
+    ],
+    [
+      "bacon](07:15)",
+      "KothCap](07:03)",
+      {
+        "help_type": "Troubleshooting bot building issues"
+      }
+    ],
+    [
+      "SotoAlt (WAWE) 07:42-08:05",
+      "Roque (08:03)",
+      {
+        "help_type": "Troubleshooting Discord client initialization and interaction issues."
+      }
+    ],
+    [
+      "LanaDelFade",
+      "UoS",
+      {
+        "help_type": "Resolving a build failure after successful npm install"
+      }
+    ],
+    [
+      "LanaDelFade",
+      "dnx, loaf",
+      {
+        "help_type": "Resolving AI API call errors"
+      }
+    ],
+    [
+      "Kanye",
+      "All users facing similar issues",
+      {
+        "help_type": "Resolving errors related to OpenAPI keys in .env file"
+      }
+    ],
+    [
+      "Kanye",
+      "AM",
+      {
+        "help_type": "Addressing recurring error message on AI16 platform"
+      }
+    ],
+    [
+      "LanaDelFade (02:43)",
+      "bj\u00f6rr",
+      {
+        "help_type": "Editing character.ts file in src instead of using OPENAI."
+      }
+    ],
+    [
+      "18 Rabbit",
+      "Twitter tweeting setup and node-scheduler switch.",
+      {
+        "help_type": "Provided guidance on setting up Twitter credentials in .env file. Suggested switching to Node Scheduler for better functionality"
+      }
+    ],
+    [
+      "18 Rabbit",
+      "Nona",
+      {
+        "help_type": "Twitter interaction"
+      }
+    ],
+    [
+      "infi](https://discordapp.com/users/me)",
+      "bot time awareness",
+      {
+        "help_type": "Suggested using TimeProvider (04:23)"
+      }
+    ],
+    [
+      "void(null) \u237c",
+      "Twitter API usage and rate limiting",
+      {
+        "help_type": "Provided information on using Twitter scraper, but advised to check for the need of a Twitter API."
+      }
+    ],
+    [
+      "bj\u00f6rn (01:41) and others",
+      "Setting up agents to communicate locally",
+      {
+        "help_type": "Shared a GitHub repository link for scraping tweets into character files."
+      }
+    ],
+    [
+      "Ophiuchus](at 2021-09-27T03:41)",
+      "Msurfx",
+      {
+        "help_type": "Resolve port conflict issue with Eliza bot (successful help interaction) (at 2021-09-27T05:46)"
+      }
+    ],
+    [
+      "Msurfx",
+      "Spicy (Repenting for my Sins)](at 2021-09-27T04:36)",
+      {
+        "help_type": "Update Eliza to version v0.1.4-alpha.3 and fix code issue (successful help interaction) (at 2021-09-27T05:46)"
+      }
+    ],
+    [
+      "massivefermion",
+      "uber",
+      {
+        "help_type": "Bot configuration adjustment"
+      }
+    ],
+    [
+      "YoungPhlo (01:13)",
+      "brownie",
+      {
+        "help_type": "Launching an Eliza agent, sharing knowledge and experience with the community."
+      }
+    ],
+    [
+      "brownie",
+      "ViceMan",
+      {
+        "help_type": "Troubleshooting Twitter posting issue"
+      }
+    ],
+    [
+      "Kanye](01:30)",
+      "WAWE](01:32-01:35)",
+      {
+        "help_type": "Node version update and rebuild"
+      }
+    ],
+    [
+      "YoungPhlo",
+      "sebasv23",
+      {
+        "help_type": "Guide to follow along with the project"
+      }
+    ],
+    [
+      "hiroP](01:59)",
+      "stammer](01:58)",
+      {
+        "help_type": "Setting up repository locally"
+      }
+    ],
+    [
+      "brownie (02:35-02:49)",
+      "Kanyey(02:36)",
+      {
+        "help_type": "Debugging Node.js installation"
+      }
+    ],
+    [
+      "leeren",
+      "Chat Members",
+      {
+        "help_type": "Optimize for throttling and occasional posting"
+      }
+    ],
+    [
+      "iBuyRare (03:30)",
+      "dotbear89 (02:41)",
+      {
+        "help_type": "Resolving TypeError when starting an agent"
+      }
+    ],
+    [
+      "Dolla Llama](07:24)",
+      "WAWE] SotoAlt",
+      {
+        "help_type": "Investigate issue with agent posting multiple messages"
+      }
+    ],
+    [
+      "Dolla Llama](07:24)",
+      "WAWE (07:36)",
+      {
+        "help_type": "Investigate issue with agent posting multiple messages"
+      }
+    ],
+    [
+      "braydie",
+      "dotbear89",
+      {
+        "help_type": "Tweet Generation Workaround"
+      }
+    ],
+    [
+      "dotbear89",
+      "peachy",
+      {
+        "help_type": "by providing Peachy shared their experience with creating mainCharacter.ts file and importing it to index.ti, which helped dotbear89 avoid errors."
+      }
+    ],
+    [
+      "Peachy (08:26)",
+      "iBuyRare",
+      {
+        "help_type": "Troubleshooting"
+      }
+    ],
+    [
+      "iBuyRare",
+      "Jo",
+      {
+        "help_type": "Update Twitter Agent"
+      }
+    ],
+    [
+      "Dolla Llama",
+      "HoneyPotSmoker\ud83d\udc3b\u26d3\ud83c\udf6f, dotbear89",
+      {
+        "help_type": "Modify Telegram chat prompts"
+      }
+    ],
+    [
+      "DL",
+      "dl",
+      {
+        "help_type": "Create a custom plugin for characters and import it into the ts file."
+      }
+    ],
+    [
+      "sototal",
+      "ayvaras",
+      {
+        "help_type": "Resolving server IP change issue"
+      }
+    ],
+    [
+      "'Try without' and 'nah my agent doesn't have any', suggesting Ayvaras to test the software feature with cookies disabled.",
+      "Ayvaras (02:39, 02:41)",
+      {
+        "help_type": "'Investigate why setting VPN doesn't work'"
+      }
+    ],
+    [
+      "lambert",
+      "Manasvi",
+      {
+        "help_type": "Troubleshooting error in Eliza project."
+      }
+    ],
+    [
+      "frenchplace",
+      "problem",
+      {
+        "help_type": "loading content into memory via API or commands with loading sources for agent's knowledge"
+      }
+    ],
+    [
+      "kungfumode",
+      "Agent Issue Resolution Successful.",
+      {
+        "help_type": "Tweet formatting"
+      }
+    ],
+    [
+      "kungfumode",
+      "MetaMike",
+      {
+        "help_type": "Discord bot integration issue"
+      }
+    ],
+    [
+      "collect](01:01)",
+      "stakeware.xyz] (01:06)",
+      {
+        "help_type": "Troubleshooting Twitter integration issue"
+      }
+    ],
+    [
+      "collect](01:19)",
+      "ZO, DorianD, and others present during chat interaction.",
+      {
+        "help_type": "Troubleshooting Twitter integration issue"
+      }
+    ],
+    [
+      "Zo](01:35)",
+      "DoranD](02:46)",
+      {
+        "help_type": "Update to the latest version of software and run commands for installation."
+      }
+    ],
+    [
+      "sma (00:14)",
+      "WAWE, Ophiuchus",
+      {
+        "help_type": "Implement custom fine-tuned LLM for Twitter in Eliza"
+      }
+    ],
+    [
+      "SMA](01:36)",
+      "stakeware.xyz] (01:15)",
+      {
+        "help_type": "Improve character bio and lore generation"
+      }
+    ],
+    [
+      "SMA](01:03)",
+      "Ophiuchus](01:14)",
+      {
+        "help_type": "Editing character file"
+      }
+    ],
+    [
+      "whobody](01:20)",
+      "SMA](01:20)",
+      {
+        "help_type": "Project development assistance"
+      }
+    ],
+    [
+      "j2k(11:48)",
+      "community members",
+      {
+        "help_type": "video sharing"
+      }
+    ],
+    [
+      "community members",
+      "big dookie (02:45)], [boom lfg",
+      {
+        "help_type": "UX Improvement"
+      }
+    ],
+    [
+      "Deleted User (15:02)",
+      "General",
+      {
+        "help_type": "Sharing resources for better understanding of existing solutions"
+      }
+    ],
+    [
+      "weliveinasociety",
+      "Agent Joshua \u20b1",
+      {
+        "help_type": "Debugging a problem with building docker image."
+      }
+    ],
+    [
+      "Parzival (00:56)] and [H.D.P.](01:10)",
+      "community members interested in integrating Cursor into their projects.",
+      {
+        "help_type": "[SMA](02:37) requested help with setting up a project using JSON character file instead of defaultCharacter.ts, assistance provided by [Shaw] and community member Spooky (emblem vault)."
+      }
+    ],
+    [
+      "ophiuchus",
+      "SMA (04:19)",
+      {
+        "help_type": "Setting up Eliza agent on Discord and Twitter"
+      }
+    ],
+    [
+      "Zo",
+      "Binye",
+      {
+        "help_type": "Resolved Python installation issues by installing necessary packages with `sudo apt install -y python3 python3-pip build-essential`."
+      }
+    ],
+    [
+      "Ancosero",
+      "Everyone",
+      {
+        "help_type": "Reminded the group of their common interest in cryptocurrency"
+      }
+    ],
+    [
+      "JJJ",
+      "Badtech",
+      {
+        "help_type": "Provided a solution to chat with custom characters in tweeter mode"
+      }
+    ],
+    [
+      "Jacob",
+      "Jacob",
+      {
+        "help_type": "Integration of the Eliza Agent in Starter Project"
+      }
+    ],
+    [
+      "jjj",
+      "hajmamad",
+      {
+        "help_type": "Fixing Solana Crashes"
+      }
+    ],
+    [
+      "hajmamad",
+      "\ua9c1Ninja_Dev",
+      {
+        "help_type": "Implemented the suggestion and found it helpful."
+      }
+    ],
+    [
+      "hajmamad",
+      "W3_Bounty",
+      {
+        "help_type": "Handling of agents based on query"
+      }
+    ],
+    [
+      "\u039e2T",
+      "props for PR, easy to add Farcaster client and get an agent casting (11:10)",
+      {
+        "help_type": "Added the Farcaster Client"
+      }
+    ],
+    [
+      "JamLong",
+      "michaelben",
+      {
+        "help_type": "Configure OLLAMA models using environment variables"
+      }
+    ],
+    [
+      "michaelben",
+      "Gaia \ud83c\udf31",
+      {
+        "help_type": "Configure OLLAMA models using environment variables"
+      }
+    ],
+    [
+      "agwnl](03:16)",
+      "Shisho] (03:20)",
+      {
+        "help_type": "Discussing laptop options"
+      }
+    ],
+    [
+      "Shisho",
+      "Grivier",
+      {
+        "help_type": "Resolve JSON parsing error"
+      }
+    ],
+    [
+      "techfren",
+      "Thanks for the info on VPS pricing.",
+      {
+        "help_type": "Provided information about low-cost Linux VPS options and AWS grant."
+      }
+    ],
+    [
+      "R\u0335\u0358\u030fS\u0337\u0342\u030b",
+      "Advised to use the client for Eliza-starter.",
+      {
+        "help_type": "Provided guidance on using a specific tool."
+      }
+    ],
+    [
+      "R\u0335\u0358\u030fS\u0337\u0342\u030b",
+      "Provided information about the client folder and its use for building front-end.",
+      {
+        "help_type": "[fOfer] (05:26)"
+      }
+    ],
+    [
+      "agwnl](08:23)",
+      "big trav](07:15)",
+      {
+        "help_type": "Configuring Eliza agents to post on X platform"
+      }
+    ],
+    [
+      "Ophiuchus](https://discordapp.com/users/me/984231576)",
+      "Solana token swap integration issue by [0xwarptic] (solved successfully)",
+      {
+        "help_type": "Technical"
+      }
+    ],
+    [
+      "Oguz Serdar](https://discordapp.com/users/me/984231576)",
+      "Rate limit concerns by [ferric",
+      {
+        "help_type": "Technical"
+      }
+    ],
+    [
+      "Oguz Serdar](https://discordapp.com/users/me/984231576)",
+      "stakeware.xyz] (solved successfully)",
+      {
+        "help_type": "Technical"
+      }
+    ],
+    [
+      "0xwarptic",
+      "omz\u014d",
+      {
+        "help_type": "git operation"
+      }
+    ],
+    [
+      "void(null)\u237c",
+      "3700",
+      {
+        "help_type": "Resolving SqliteError: Vector dimension mismatch issue"
+      }
+    ],
+    [
+      "void(null)\u237c",
+      "BVM + Eternal AI",
+      {
+        "help_type": "Resolving SqliteError: Vector dimension mismatch issue"
+      }
+    ],
+    [
+      "AgentJoshua",
+      "GokuMaster64",
+      {
+        "help_type": "Understanding plugin development"
+      }
+    ],
+    [
+      "milan",
+      "not_in_a_dao_ai byeo2i01prwntorideBruenu #redbull.eth#BORED j3r Agent Joshua $\u20b1 LiveTheLifeTV ViceMan Isk heheh Bunchu Jin",
+      {
+        "help_type": "Setting up Eliza environment and understanding 'modelProvider'"
+      }
+    ],
+    [
+      "TrenchFren",
+      "general discussion group",
+      {
+        "help_type": "llama version information setup"
+      }
+    ],
+    [
+      "DataRelic",
+      "h\u0394rdshell",
+      {
+        "help_type": "Twitter environment variable configuration"
+      }
+    ],
+    [
+      "DataRelic",
+      "Mina, MrEnjOy_",
+      {
+        "help_type": "Feature implementation"
+      }
+    ],
+    [
+      "h\u0394rdshell",
+      "Odilitime",
+      {
+        "help_type": "Understanding the role of ENV variable in loading plugins, clarifying code snippet for plugin inclusion"
+      }
+    ],
+    [
+      "h\u0394rdshell",
+      "radagast",
+      {
+        "help_type": "Character Model Loading Issue"
+      }
+    ],
+    [
+      "st4rgard3n (03:24)",
+      "Twitter scraper issue",
+      {
+        "help_type": "shadowbanning account. with Configure Twitter agent for replies and lambda models without solana setup"
+      }
+    ],
+    [
+      "SMA (04:36)",
+      "Error",
+      {
+        "help_type": "running Lambda model in .env file. with Fixing errors when using lambda models and hijacked OPENAI_BASE_URL & API KEY"
+      }
+    ],
+    [
+      "Isk Heiheh",
+      "AM",
+      {
+        "help_type": "Review and correct the character.character.json to resolve model mismatch."
+      }
+    ],
+    [
+      "Rick",
+      "Melted",
+      {
+        "help_type": "Finding docker documentation"
+      }
+    ],
+    [
+      "dievardump",
+      "tybq93",
+      {
+        "help_type": "Resolving library import errors"
+      }
+    ],
+    [
+      "CS",
+      "HoneyPotSmoker\ud83d\udc3b\u26d3\ud83c\udf6f",
+      {
+        "help_type": "Adding to friends list"
+      }
+    ],
+    [
+      "2696",
+      "Vice Man",
+      {
+        "help_type": "Database location issue"
+      }
+    ],
+    [
+      "allan28",
+      "Bill Gains",
+      {
+        "help_type": "Provided alternative libraries for Twitter client installation issues"
+      }
+    ],
+    [
+      "Matthias",
+      "git issue",
+      {
+        "help_type": "plugin-starknet on v0.1.5-alpha.0 with Technical Tasks"
+      }
+    ],
+    [
+      "git issue",
+      "zKorp \u2601",
+      {
+        "help_type": "plugin-starknet on v0.1.5-alpha.0 with Technical Tasks"
+      }
+    ],
+    [
+      "Odilitime",
+      "andy8052",
+      {
+        "help_type": "Finding alternative voice solutions"
+      }
+    ],
+    [
+      "Odilitime (08:05)",
+      "General community members",
+      {
+        "help_type": "Documentation update"
+      }
+    ],
+    [
+      "Honey B.(02:12)",
+      "stakeware.xyz](02:12)",
+      {
+        "help_type": "'Troubleshooting error in code execution'"
+      }
+    ],
+    [
+      "DegenSpartan] (00:07)",
+      "Ophiuchus](00:06)",
+      {
+        "help_type": "Understanding project's scope"
+      }
+    ],
+    [
+      "DegenSpartan",
+      "stakeware.xyz, hiroP",
+      {
+        "help_type": "Hardware upgrade discussion"
+      }
+    ],
+    [
+      "DegenSpartan",
+      "All members discussing the need for GPUs and local setup challenges.",
+      {
+        "help_type": "Discussed hardware requirements, costs associated with RTX units, prompt caching techniques"
+      }
+    ],
+    [
+      "hiroP (01:42)",
+      "Kevin",
+      {
+        "help_type": "Creating Trump or Tate Character in Bot"
+      }
+    ],
+    [
+      "doriand",
+      "bigsky",
+      {
+        "help_type": "Feature Requests/Technical Discussion - Grok for Character File Generation (09:41-09:51)"
+      }
+    ],
+    [
+      "DorianD (10:24)",
+      "Character file calling issue in the new model.",
+      {
+        "help_type": "Provided confirmation on character call process and shared personal experience with default Eliza pulling up correctly. Successful help provided"
+      }
+    ],
+    [
+      "Msurfx, DataRelic",
+      "WAWE (01:54)",
+      {
+        "help_type": "Resolve SqliteError issue"
+      }
+    ],
+    [
+      "jmill",
+      "Lemonov",
+      {
+        "help_type": "Resolve compile-time issues"
+      }
+    ],
+    [
+      "slim",
+      "(GPU and CUDA compatibility)",
+      {
+        "help_type": "Provide guidance on GPU capabilities, installation of the NVIDIA drivers, and usage without requiring a hardware-based solution."
+      }
+    ],
+    [
+      "pastd_",
+      "WAWE & Tenji",
+      {
+        "help_type": "AI agent setup"
+      }
+    ],
+    [
+      "pastd_",
+      "WAWE (02:34-02:37)",
+      {
+        "help_type": "AI Clone Development"
+      }
+    ],
+    [
+      "SotoAlt & Tenji",
+      "How to use the dev command for hot reloading code changes.",
+      {
+        "help_type": "Technical assistance"
+      }
+    ],
+    [
+      "Ophiuchus (08:37-08:49)",
+      "General Discord chat",
+      {
+        "help_type": "Adding knowledge base to the project, fixing undefined error in code for swaps on X."
+      }
+    ],
+    [
+      "yung_algorithm",
+      "Ophiuchus (10:09)",
+      {
+        "help_type": "Technical Tasks"
+      }
+    ],
+    [
+      "Tenjis username",
+      "Ophiuchas & ferric",
+      {
+        "help_type": "Codebase management"
+      }
+    ],
+    [
+      "slim and Bruenu",
+      "Bruenu",
+      {
+        "help_type": "Troubleshooting"
+      }
+    ],
+    [
+      "technoir (02:35)",
+      "ray(01:24)",
+      {
+        "help_type": "Implement once per day interval in generateNewTweetLoop."
+      }
+    ],
+    [
+      "Ophiuchus](21:11)",
+      "Bless",
+      {
+        "help_type": "Setting up an eliza twitter bot from start to finish"
+      }
+    ],
+    [
+      "MetaMike",
+      "Drew",
+      {
+        "help_type": "SQLite issue resolution"
+      }
+    ],
+    [
+      "Brandon",
+      "agent is live on Farcaster yoinker",
+      {
+        "help_type": "Resolved eliza-starter error by switching to main implementation"
+      }
+    ],
+    [
+      "devAlex",
+      "J3r",
+      {
+        "help_type": "Node Version Issue Resolution"
+      }
+    ],
+    [
+      "Apollo DAO",
+      "agent is live on Farcaster yoinker",
+      {
+        "help_type": "Resolved eliza-starter error by switching to main implementation"
+      }
+    ],
+    [
+      "Airmax",
+      "pmairca shaw",
+      {
+        "help_type": "Resource sharing"
+      }
+    ],
+    [
+      "kellyn",
+      "jin, smokyboo",
+      {
+        "help_type": "Tracking and organizing information on future events."
+      }
+    ],
+    [
+      "agent_joshua",
+      "kellyn, jin",
+      {
+        "help_type": "Providing support for upcoming event participation."
+      }
+    ],
+    [
+      "AzFlin & maxim.sui\ud83c\udf0a",
+      "Eliza installation issue",
+      {
+        "help_type": "Shared solution for package.json modification to get Eliza working locally"
+      }
+    ],
+    [
+      "dmg",
+      "All members in the chat.",
+      {
+        "help_type": "Technical guidance on improving AI models"
+      }
+    ],
+    [
+      "WAWE (07:38)",
+      "andy8052",
+      {
+        "help_type": "Using an alternative language model to simplify the process of creating a template with characters."
+      }
+    ],
+    [
+      "degendata",
+      "JARS",
+      {
+        "help_type": "Eliza Setup"
+      }
+    ],
+    [
+      "AIFlow.ML](04:39)",
+      "kungfumode(05:12)",
+      {
+        "help_type": "Resolving agent-twitter client issue"
+      }
+    ],
+    [
+      "kungfumode(05:12)",
+      "solswappa](04:39)",
+      {
+        "help_type": "Optimizing agent-twitter client"
+      }
+    ],
+    [
+      "sleepysign",
+      "Black",
+      {
+        "help_type": "Resolving error with AMD card"
+      }
+    ],
+    [
+      "Everyone in the chat, including shaw",
+      "fudme(01:31)",
+      {
+        "help_type": "Connecting a bot's actions/functions on server"
+      }
+    ],
+    [
+      "Tharakesh](05:16)",
+      "Windows users facing issues",
+      {
+        "help_type": "Eliza setup with Provided guidance on Node version and debugging using claude"
+      }
+    ],
+    [
+      "Mina",
+      "Citizen1553, Tharakesh",
+      {
+        "help_type": "Technical issue resolution"
+      }
+    ],
+    [
+      "Mina, DataRelic",
+      "Twitter cookies setup for environment.",
+      {
+        "help_type": "by providing DataRelic helps Mina with adding Twitter client in character JSON file."
+      }
+    ]
+  ]
+}
