@@ -24,7 +24,9 @@ import matplotlib.pyplot as plt
 # assign expertise areas based on help given and received
 # rewards those with hub powers as they are the "glue" between members
 
-
+# Create output directory if it doesn't exist
+output_dir = Path('output')
+output_dir.mkdir(exist_ok=True)
 
 def parse_names(name_string):
     # Remove square brackets and @ symbols, then split by |
@@ -73,10 +75,9 @@ def create_network(edges):
 
 def show_network(G):
     plt.figure(figsize=(12, 8))
-    # Use community attribute directly for coloring
     colors = [G.nodes[node]['community'] for node in G.nodes()]
     nx.draw(G, with_labels=False, node_color=colors)
-    plt.savefig('help_network.png', bbox_inches='tight')
+    plt.savefig(output_dir / 'help_network.png', bbox_inches='tight')
     plt.close()
 
 def show_core_network(G):
@@ -88,10 +89,9 @@ def show_core_network(G):
     G_largest = G.subgraph(largest_cc)
     
     plt.figure(figsize=(12, 8))
-    # Use community attribute directly for coloring
     colors = [G_largest.nodes[node]['community'] for node in G_largest.nodes()]
     nx.draw(G_largest, with_labels=False, node_color=colors)
-    plt.savefig('core_network.png', bbox_inches='tight')
+    plt.savefig(output_dir / 'core_network.png', bbox_inches='tight')
     plt.close()
 
 def detect_communities(G):
@@ -137,7 +137,7 @@ def calculate_metrics(G, communities):
     return deg, btw, clo
 
 def metrics_to_csv(G, communities, deg, btw, clo):
-    with open('metrics.csv', 'w', newline='') as file:
+    with open(output_dir / 'metrics.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(['Node', 'Community', 'Degree', 'Betweenness Centrality', 'Closeness Centrality'])
         for node in G.nodes():
@@ -164,7 +164,7 @@ def main():
         'edges': list(G.edges(data=True))
     }
     
-    with open('help_network.json', 'w', encoding='utf-8') as f:
+    with open(output_dir / 'help_network.json', 'w', encoding='utf-8') as f:
         json.dump(network_data, f, indent=2)
 
 if __name__ == "__main__":
