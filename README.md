@@ -2,7 +2,7 @@
 
 A Python script that analyzes comprehensive summaries of Discord chat exports. The analyzes focuses on the section "Who Helped Who" and extracts from the first sentence the involved people and the topic of help. 
 
-Repo to create the discord chat summaries: [https://github.com/elizaOS/discord-summarizer](discord summarizer)
+Repo to create the discord chat summaries: https://github.com/elizaOS/discord-summarizer
 
 ## Features
 
