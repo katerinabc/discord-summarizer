@@ -1,38 +1,33 @@
-# Discord Chat Analyzer
+# Discord Chat Network
 
-A powerful Python script that analyzes Discord chat exports and generates comprehensive summaries using local LLM models through Ollama.
+A Python script that analyzes comprehensive summaries of Discord chat exports. The analyzes focuses on the section "Who Helped Who" and extracts from the first sentence the involved people and the topic of help. 
+
+Repo to create the discord chat summaries: [https://github.com/elizaOS/discord-summarizer](discord summarizer)
 
 ## Features
 
-- **Smart Message Analysis**: Processes Discord chat exports and generates structured analysis including:
-  - Concise technical discussion summaries
-  - FAQ compilation from discussions 
-  - Help interaction tracking
-  - Action item extraction
+- **Influence metrics**: Processes structured analysis of who is helping who and calculates:
+  - How often someone helped another person (freeman degree centrality)
+  - How easy it is to reach someone (betweeness centrality). These are your super-quick bridge-builders
+  - How much hub power a person has (closeness centrality). These are harder to reach, but more aware of everything.
 
-- **Efficient Processing**:
-  - Chunks messages for optimal processing
-  - Uses local LLM models via Ollama
-  - Progress tracking with rich CLI interface
-  - Graceful shutdown handling
+- **Community analysis**:
+  - using the who is helping who network calculates the number of sub-communities using the Louvain algorithm
+  - The output is used to calculate the number of silos, and color the nodes (ie members) in the networks
 
-- **Structured Output**:
-  - Markdown formatted reports
-  - Categorized action items
-  - Clear help interaction summaries
-  - FAQ compilation
+- **Core community**:
+  - The core community is extracted (sub set of members who are helping each other a lot)
+  - A graph is generated about this core
+  - Nodes are colored based on their community group
+  - Labels omitted
 
 ## Prerequisites
 
 - Python 3.8+
-- [Ollama](https://ollama.ai/) installed and running
-  - https://ollama.com/download
 - Required Python packages:
   ```
-  langchain_ollama
-  python-dateutil
-  rich
-  pydantic
+  newtorkx
+  matplotlib
   ```
 
 ## Installation
@@ -41,86 +36,32 @@ A powerful Python script that analyzes Discord chat exports and generates compre
 2. Install required packages:
 
 ```bash
-pip install langchain_ollama python-dateutil rich pydantic
+pip install networkx matplotlib
 ```
-3. Ensure Ollama is installed and running with a compatible model (default: phi3-chat)
-
-The Modelfile is configured for a Linux system. Edit the Modelfile for your system: https://github.com/ollama/ollama/blob/main/docs/modelfile.md
-
-```bash
-# Pull whatever model you want to use, phi3 worked best in our tests for summarizing
-ollama run phi3:14b-medium-4k-instruct-q5_K_M
-
-# Edit the Modelfile first for your system
-ollama create phi3-chat -f Modelfile 
-```
-
-> Note: For exporting Discord Chats you can look into using the Discord API and make a bot. Code soon.
-> If using [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) a preprocess script is provided to make a more compact version of the JSON file to save on tokens
+3. Run the script making sure the input files are in the correct folder. 
 
 ## Usage
 
 Basic usage:
 ```bash
-python summarize.py -i samples/chat_export.json -o /path/to/output.md
+python create_help_network.py 
 ```
-
-Arguments:
-- `-i, --input`: Path to Discord chat export JSON file (required)
-- `-o, --output`: Path to save the analysis output file (optional)
-
-If no output path is specified, the analysis will be printed to stdout.
 
 ## Output Format
 
-The script generates a structured markdown report containing:
+The script generates the following files
 
-1. **Summary**: Focused technical discussion overview
-2. **FAQ**: Important questions and answers from the chat
-3. **Help Interactions**: Tracking of community support
-4. **Action Items**: Categorized into:
-   - Technical Tasks
-   - Documentation Needs
-   - Feature Requests
-
-> Note: using https://github.com/njvack/markdown-to-json to convert to JSON to make embedding to Eliza knowledge easier
-
-## Customization
-
-You can modify the script's behavior by adjusting:
-
-- Model settings in `__init__`:
-  ```python
-  self.model = ChatOllama(
-      model=model_name,
-      temperature=0.2,
-      num_ctx=4096,
-      ...
-  )
-  ```
-- Chunk size in `_chunk_messages`
-- Analysis structure in `format_structured_prompt`
-- Output formatting in `_format_markdown`
-
-## Error Handling
-
-The script includes:
-- Graceful CTRL+C handling
-- LLM initialization error catching
-- Progress tracking
-- Chunk processing error recovery
+1. **core_network.png**: Image of the core network
+2. **help_network.json**: JSON of the network
+3. **help_network.png**: Image of the complete network
+4. **metrics.csv**: influence metrics for each node and their community number.
 
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Acknowledgments
-
-- Uses [Ollama](https://ollama.ai/) for local LLM processing
-- Built with [LangChain](https://python.langchain.com/) and [Rich](https://rich.readthedocs.io/)
-
 ## To-do
 
-- Explore structured outputs from ollama
-- Integrate into the Eliza framework
+- cateogrize help requests
+- better parsing of who is helping who
